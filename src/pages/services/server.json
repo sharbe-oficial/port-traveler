@@ -1,0 +1,526 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Águas Mornas",
+      "image": "https://hweb-upload.s3-sa-east-1.amazonaws.com/587fc4cec19a4713c4c007d7/9b3bba2195e04863a61464bcc20cd12c.jpg",
+      "description": "As águas termais do Município de Águas Mornas são classificadas como mesotermais radioativas, com temperatura constante em torno de 39º C. As águas emergem de terrenos pré-cambrianos e apresentam teor de radioatividade, termalidade e baixa meneralização que as qualificam entre as melhores do mundo. Sua origem deve-se a um derrame triássico, que situou-se nas áreas dos municípios de Águas Mornas e Santo Amaro da Imperatriz. As rochas dominantes são os micaschilos e os gneiss, cortados por veias de diábases, pegmatitos e pelo granito.",
+      "local": 42
+    },
+    {
+      "id": 2,
+      "name": "Bombinhas",
+      "image": "https://www.segueviagem.com.br/wp-content/uploads/2021/01/Vista-aerea-das-praias-da-Lagoinha-e-Prainha-Bombinhas-Santa-Catarina-shutterstock_1624434856.jpg",
+      "description": "Bombinhas é um município do litoral de Santa Catarina, segundo estado mais procurado por estrangeiros. Com águas calmas e transparentes, Bombinhas, está entre os destinos mais belos do país. É a capital do mergulho ecológico e abriga grande diversidade de fauna e flora, lindas ilhas e praias em contraste com o verde da Mata Atlântica.",
+      "local": 28
+    },
+    {
+      "id": 3,
+      "name": "Blumenau",
+      "image": "https://sesc-sc.com.br/blog/Manager/show_image.php?show_arquivo=institucional&show_campo=institucional_imagem_pq&show_chave=Institucional_id=3574",
+      "description": "A cidade foi fundada pelo químico e farmacêutico alemão Hermann Bruno Otto Blumenau , que chegou de barco pelo Rio Itajaí-Açu acompanhado de outros dezessete alemães. Possui uma agenda cultural focada em festas baseadas no cotidiano e hábitos dos imigrantes europeus, com destaque para a herança alemã, incluindo a segunda maior Oktoberfest do mundo, que acontece durante 17 dias no mês de outubro.",
+      "local": 8
+    },
+    {
+      "id": 4,
+      "name": "Florianópolis",
+      "image": "https://www.thebrokebackpacker.com/wp-content/uploads/2020/01/shutterstock-florianopolis-Lagoa-da-Conceicao.jpg",
+      "description": "Capital do estado de Santa Catarina no sul do Brasil, é maioritariamente constituída pela Ilha de Santa Catarina, com 54 km de comprimento. É famosa pelas suas praias, incluindo estâncias turísticas populares como a Praia dos Ingleses na extremidade norte da ilha.",
+      "local": 36
+    },
+    {
+      "id": 5,
+      "name": "Imbituba",
+      "image": "https://www.sulinfoco.com.br/wp-content/uploads/2021/03/praia-do-rosa.jpg",
+      "description": "Imbituba é um município brasileiro do estado de Santa Catarina. De acordo com estimativas do Censos 2010 do IBGE, sua população estimada pelo IBGE é de 44.076 habitantes, com uma unidade territorial de 186,787 km². Considerada a capital nacional da Baleia-franca, estrutura-se mais a cada ano para receber o crescente número de turistas que visitam a cidade.",
+      "local": 24
+    },
+    {
+      "id": 6,
+      "name": "Jaraguá do Sul",
+      "image": "http://www.eeeguaaa.com.br/wp-content/uploads/2017/06/140331073939_portal-germanico-6-1024x768.jpg",
+      "description": "A cidade foi fundada em 25 de julho de 1876 pelo engenheiro e coronel do Exército Brasileiro Emílio Carlos Jourdan e sua família. A cidade era originalmente chamada apenas de Jaraguá, mas posteriormente foi renomeada para Jaraguá do Sul devido a uma cidade já chamada Jaraguá no estado de Goiás.",
+      "local": 16
+    },
+    {
+      "id": 7,
+      "name": "Lages",
+      "image": "https://luzcont.com.br/wp-content/uploads/2020/10/Como-abrir-empresa-em-Lages-sc.jpg",
+      "description": "Lages é a maior cidade da Serra Catarinense, terra de tropeiros e berço do turismo rural no Brasil. A cidade que foi fundada por tropeiros e bandeirantes em 1677, hoje tem mais de 150 mil habitantes.\n Lages estava na rota das longas expedições em que se conduziam as tropas de gado do Rio Grande do Sul para de São Paulo. Nos anos 80, as fazendas tradicionais começaram a abrir suas portas para hospedar visitantes, dando origem ao turismo rural no Brasil.\n Conhecida como a Capital do Turismo Rural e a Terra da Festa do Pinhão, Lages oferece vários pontos turísticos na cidade.",
+      "local": 32
+    },
+    {
+      "id": 8,
+      "name": "Rio do Sul",
+      "image": "https://www.guiadoturismobrasil.com/up/img/1498327703.jpg",
+      "description": "Rio do Sul é uma importante cidade do Vale Europeu Catarinense, no Alto Vale do Itajaí. Cortada por dois rios que se juntam e formam o Rio Itajaí-Açu, é uma cidade de muitas pontes.\n Entre os pontos turísticos de Rio do Sul, na cidade, o destaque é a imponente igreja matriz (Catedral de São João Batista). Já nos arredores, há boas opções na área montanhosa, como o Pico da Bandeira, Morro do Funil e Cachoeira da Magia.",
+      "local": 12
+    }
+  ],
+
+  "categories": [
+    {"key": "attractions", "title": "Pontos Turísticos"},
+    {"key": "foods", "title": "Comida & Bebida"},
+    {"key": "events", "title": "Eventos Organizados"}
+  ],
+
+  "places": {
+    "attractions": [
+      {
+        "id": 100,
+        "name": "Cachoeira da Ressurreição",
+        "image": "https://turismoserraelitoral.com.br/som/wp-content/uploads/2020/01/img_5154-2076968.jpg",
+        "description": "A Cachoeira da Ressurreição leva este nome por estar localizada na comunidade da Fazenda da Ressurreição a 7 km da Sede de Águas Mornas. O Local de fácil acesso tem uma cachoeira linda de 35metros de altura muito usada pelas operadoras de turismo para a atividade do Rapel. A Trilha de acesso a cachoeira é de fácil acesso, porém com uma descida íngreme com caminhada de 10 minutos.",
+        "category": ["Pontos Turísticos"],
+        "city": "Águas Mornas"
+      },
+      {
+        "id": 101,
+        "name": "Gruta Nossa Senhora de Lordes",
+        "image": "https://doutorricardo.rs.gov.br/uploads/pontoturistico/20227/maior_Doutor_Ricardo_Gruta_Nossa_Senhora_de_Lourdes1.jpg",
+        "description": "Ponto de peregrinação religiosa, fica na localidade de Santa Terezinha, a 10 km do centro de Urubici, no caminho para o Morro da Igreja. É uma gruta natural, cercada por paredões, na qual desde 1944 existe a imagem de Nossa Senhora de Lourdes.",
+        "category": ["Pontos Turísticos"],
+        "city": "Águas Mornas"
+      },
+      {
+        "id": 102,
+        "name": "Morro do Macaco",
+        "image": "https://villamacielbombinhas.com.br/wp-content/uploads/2020/07/image1.jpeg",
+        "description": "Esse é o Ponto Turístico mais conhecido de Bombinhas, a caminhada inicia-se ao final da Praia de Canto Grande (Mar de Dentro), é uma trilha ecológica de dificuldade moderada com vários pontos de pausa para descanso e reposição de energia, apreciando uma vista FANTÁSTICA para a península encantada.",
+        "category": ["Pontos Turísticos"],
+        "city": "Bombinhas"
+      },
+      {
+        "id": 103,
+        "name": "Mirante Eco 360º",
+        "image": "https://static.fecam.net.br/thumbs/1829/2991121_resize_550_.png",
+        "description": "Para quem busca a melhor vista de Bombinhas, mas não quer encarar a subida do Morro do Macaco, o Mirante Eco 360° é a opção. No Mirante você chega pelo acesso á Praia da Tainha que pode chegar até o começo da trilha de carro, e com apenas 15 minutinhos de caminhada você já está no ponto mais alto de Bombinhas. Além de curtir uma ótima vista você não precisa fazer tanto esforço para chegar ao mirante.",
+        "category": ["Pontos Turísticos"],
+        "city": "Bombinhas"
+      },
+      {
+        "id": 104,
+        "name": "Costeira de Zimbros",
+        "image": "http://pousadabrisadomar.com.br/wp-content/uploads/2018/09/image3-1.jpeg",
+        "description": "Um ponto turístico que não pode faltar no seu roteiro é a Costeira de Zimbros, por sua beleza e sua natureza exuberante essa trilha ganha destaque em Bombinhas. Logo no começo você encontra a Praia do Cardoso, uma praia onde você pode ficar em privacidade total pelo motivo de não ter nada construído e não ter movimento de pessoas indo e vindo. Após iniciar a caminhada você encontra mais duas Praias totalmente desertas, com águas cristalinas e areia branca. A caminhada é de dificuldade moderada e acesso fácil, tendo em média 1 hora de duração até chegar na Praia Triste.",
+        "category": ["Pontos Turísticos"],
+        "city": "Bombinhas"
+      },
+      {
+        "id": 105,
+        "name": "Trilha da Sepultura",
+        "image": "https://i2.wp.com/naopiradesopila.com/wp-content/uploads/2020/01/praia-da-sepultura-10.jpeg?resize=800%2C539&ssl=1",
+        "description": "Essa trilha inicia-se logo após a Praia da Sepultura, o acesso é fácil e a caminhada bem tranquila, você irá desfrutar da natureza e das paisagens que esse ponto tem a lhe oferecer. Tem duração de 30 minutos para chegar até o final da trilha, além de curtir a caminhada ao meio da natureza, tem duas praias desertas e uma piscina natural onde você pode desfrutar das belezas naturais de Bombinhas.",
+        "category": ["Pontos Turísticos"],
+        "city": "Bombinhas"
+      },
+      {
+        "id": 106,
+        "name": "Reserva Biológica Marinha do Arvoredo",
+        "image": "https://marsemfim.com.br/wp-content/uploads/2014/04/cost%C3%A3o-rochoso-ilha-deserta-.jpg",
+        "description": "Amantes do mergulho, esse é o local ideal para desfrutar de um bom mergulho com cilindro. Para os mergulhadores é uma área sensacional, com ótima visibilidade de 25 metros de profundidade. É possível observar cavalos marinhos, lulas, tartarugas e muitas outras vidas marítimas. Por ser um patrimônio histórico e natural, a reserva é fechada para visitas, sendo o IBAMA o órgão que controla os passeios na região. As belezas marinhas podem ser conferidas nas proximidades da Ilha do Arvoredo, a única parte onde é permitido mergulhar e ainda com número limitado de 20 pessoas por dia.",
+        "category": ["Pontos Turísticos"],
+        "city": "Bombinhas"
+      },
+      {
+        "id": 107,
+        "name": "Praia do Ribeiro",
+        "image": "https://i.pinimg.com/originals/51/2c/86/512c86f32bcbe574646509a1386902e5.jpg",
+        "description": "Essa pequena praia com apenas 120 metros de extensão, está localizada ao meio das praias de Bombas e Bombinhas. A Praia do Ribeiro é cercada de uma natureza exuberante e vegetação nativa, para os amantes de snokerling esse é o local ideal para curtir um bom mergulho e desfrutar das águas cristalinas. Por ser uma praia com dificuldade moderada de acesso, muitos turistas acabam deixando a cidade sem conhecer essa beleza natural, a dica é colocar no seu roteiro e ir curtir esse destino.",
+        "category": ["Pontos Turísticos"],
+        "city": "Bombinhas"
+      },
+      {
+        "id": 108,
+        "name": "Parque Vila Germânica",
+        "image": "https://i2.wp.com/www.buenasdicas.com/wp-content/uploads/2017/10/vila-germanica-blumenau-sc.jpg?fit=1000%2C563&ssl=1",
+        "description": "O maior ícone da cidade de Blumenau, e local predileto entre os turistas que chegam à cidade, é o Parque Vila Germânica. O local, que funciona como um centro de convenções, é palco da Oktoberfest de Blumenau e também de grandes feiras, como o Festival Brasileiro da Cerveja. A boa notícia é que a Vila Germânica permanece aberta durante todo o ano para o público. O espaço reproduz uma pequena vila do interior da Alemanha e oferece diversas lojas e bares para quem deseja entrar no clima da região. É ponto turístico obrigatório, especialmente pela boa variedade de chopes e comidas típicas germânicas disponíveis.",
+        "category": ["Pontos Turísticos"],
+        "city": "Blumenau"
+      },
+      {
+        "id": 109,
+        "name": "Rua XV de Novembro",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_local/fotos/35944/show/rua-xv-de-novembro.jpg",
+        "description": "Uma boa maneira de entrar em contato com os moradores e também com a cidade é percorrer a Rua XV de Novembro. Ela é a principal avenida de Blumenau e está repleta de comércios e lojas com produtos típicos da região (especialmente produtos com a temática da Oktoberfest). Ao caminhar, não deixe de reparar nas casas em estilo enxaimel. Apesar de quase nenhuma delas ser original (infelizmente é verdade), elas formam belos cenários para fotos. As mais chamativas da rua são o Castelinho — uma grande casa onde funciona a loja Havan — e o prédio da Prefeitura de Blumenau, onde uma locomotiva de época e um relógio de flores ajudam a compor a cena. Se quiser mesmo ver uma construção original, procure a pequena casa com anões na sacada. Ainda na Rua XV de Novembro, não deixe de visitar a Catedral São Paulo, a Fundação Cultural São Paulo e o Biergarten, um charmoso jardim de frente para o rio Itajaí-Açu.",
+        "category": ["Pontos Turísticos"],
+        "city": "Blumenau"
+      },
+      {
+        "id": 110,
+        "name": "Praia do Campeche",
+        "image": "https://i.pinimg.com/originals/87/5a/ef/875aef62f0185f5047f8df8dc8069fa6.jpg",
+        "description": "Com três quilômetros e meio de extensão, a Praia do Campeche é muito frequentada por surfistas e kitesurfistas, pelas características do mar e do vento, e pelos jovens, principalmente da região de Riozinho. As areias do Campeche também recebem várias famílias devido à grande disponibilidade de hospedagem e ao rápido crescimento populacional que o bairro tem vivenciado nos últimos anos. Isso faz de Campeche uma das praias mais ecléticas e democráticas da ilha.",
+        "category": ["Pontos Turísticos"],
+        "city": "Florianópolis"
+      },
+      {
+        "id": 111,
+        "name": "Lagoa da Conceição",
+        "image": "https://www.guiaviagensbrasil.com/blog/wp-content/uploads/2014/12/lagoa-da-conceicao-florianopolis-sc_640.jpg",
+        "description": "A Lagoa da Conceição fica na parte leste de Florianópolis, bem do lado que o sol nasce, com uma paisagem deslumbrante, é a maior lagoa de Florianópolis, mas é na avenida das rendeiras que nativos e turistas se encontram para entrar na água, fazer piquenique, curtir um stand up paddle, caiaque ou passeio de barco.",
+        "category": ["Pontos Turísticos"],
+        "city": "Florianópolis"
+      },
+      {
+        "id": 112,
+        "name": "Praia do Rosa",
+        "image": "https://refugiodorosa.com.br/medias/article/big/67/praia-do-rosa-santa-catarina-2.jpg",
+        "description": "Conhecida como o paraíso dos surfistas, a Praia do Rosa apresenta características ideais para a prática de surfe, windsurfe e vela. Possui 2 km de extensão, com águas transparentes, cercada pelo verde exuberante das montanhas cobertas de cactos e flores.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 113,
+        "name": "Praia do Luz",
+        "image": "https://www.spiceuptheroad.com/site/wp-content/uploads/2018/05/praia-do-luz-imbituba.jpg",
+        "description": "Bela praia quase selvagem de Imbituba, situada entre morros e a lagoa de Ibiraquera. A praia possui apenas poucas pousadas e conta com sua natureza quase intocada, com vegetação rasteira, árvores e uma enorme faixa de areia. Fica entre Ibiraquera e a Praia do Rosa, com uma encosta ainda virgem de Mata Atlântica e algumas dunas. É uma ótima praia para caminhadas, descanso e também para o surf, já que possui boas ondas. No costão esquerdo há duas trilhas que levam à Praia do Rosa: a trilha pelo costão e o Caminho do Rei.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 114,
+        "name": "Praia Ibiraquera / Lagoa de ibiraquera",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/72/83/d0/praia-de-ibiraquera.jpg",
+        "description": "É considerada por esportistas como a melhor praia para a prática de windsurfe no Brasil. Além da praia, Ibiraquera possui dunas, rios, ilhas e lagoas. Uma das lagoas mais procuradas é a de Ibiraquera, onde se pratica o kitesurfe. Já a Barra de Ibiraquera é a preferida dos banhistas, que podem escolher entre banho de lagoa ou banho de mar, poucos metros um do outro. Anualmente, no mês de outubro, atletas de vários países se encontram por lá para importantes competições. A lagoa também é conhecida pela pesca de camarão.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 115,
+        "name": "Praia Ribanceira",
+        "image": "https://i.ytimg.com/vi/92vYACpl9MM/maxresdefault.jpg",
+        "description": "A Praia da Ribanceira possui águas azuis, transparentes e mornas que formam um belo cenário. É uma das praias preferidas dos surfistas, também procurada para windsurf e por pescadores. É também ótima para caminhadas e uma das preferidas das baleias, na temporada de junho a outubro.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 115,
+        "name": "Praia dos Amores",
+        "image": "https://viagensmerecidas.com.br/wp-content/uploads/2019/10/praia-dos-amores-rj-800x445.jpg",
+        "description": "A praia dos Amores, também conhecida como Prainha da Riba é bem pequenina, com apenas 50 metros, espremida entre os morros. O acesso é por uma trilha de 300 m a partir do canto direito da Praia da Ribanceira.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 116,
+        "name": "Praia D’água",
+        "image": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2010/08/imbituba-praia-dagua.jpg",
+        "description": "Bela praia deserta, localizada entre os morros e costões das praias do Porto e da Ribanceira. Seu nome foi dado pelas nascentes de água que descem dos morros ao seu redor. Além de ser uma praia muito bonita, indicada para quem gosta de natureza, a praia oferece boas ondas para o surf. O acesso é por trilhas de aproximadamente 1 km a partir da rodovia que liga a praia do Porto à Ribanceira.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 117,
+        "name": "Museu da Baleia",
+        "image": "https://www.clicrbs.com.br/rbs/image/13757509.jpg?w=700",
+        "description": "O Museu da Baleia de Imbituba se localiza na praia do Porto, no “Barracão Manoel Rosa”, antiga armação baleeira, fechada em 1973. Inaugurado em 2003, o museu é o resultado de uma parceria entre o Projeto Baleia Franca e a Prefeitura de Imbituba. O museu conta a história da matança das baleias e a luta pela sua proteção. Contém diversos artefatos históricos, documentos e painéis interpretativos.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 118,
+        "name": "Museu das Conchas",
+        "image": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2010/08/museu-das-conchas-imbituba.jpg",
+        "description": "O museu das conchas foi criado pelo holandês Antonie Maljers, conquiliologista (especialista em conchas), quando iniciou sua coleção particular de concha no ano de 2000. Desde então, vem aumentando seu acervo de conchas que pode ser visto no museu, que inclui centenas de conchas raras.",
+        "category": ["Pontos Turísticos"],
+        "city": "Imbituba"
+      },
+      {
+        "id": 119,
+        "name": "Parque Malwee",
+        "image": "https://cdn.ocp.news/2018/07/Parque-Malwee.jpg",
+        "description": "Já virou figurinha repetida falar que o Parque Malwee é o principal destino turístico de Jaraguá do Sul. Rodeado por mais de 35 mil árvores e 130 espécies de aves, o local é um exemplo de preservação ecológica em todo o país. Apesar de ser um parque privado, mantido pelo Grupo Malwee, ele tem a entrada gratuita.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 120,
+        "name": "Chiesetta Alpina",
+        "image": "https://cdn.ocp.news/2018/07/Chiesetta-Alpina2.jpg",
+        "description": "Desde 2012, ano de sua inauguração, a Chiesetta Alpina se tornou um grande ponto turístico em Jaraguá do Sul. Somente em 2017, a pequena igrejinha, localizada a 570 metros de altitude, recebeu 20 mil pessoas de todos os estados do Brasil e de 26 países diferentes.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 121,
+        "name": "Morro das Antenas",
+        "image": "https://cdn.ocp.news/2018/07/Voo-livre.jpg",
+        "description": "O trajeto do Morro Boa Vista não acaba na Chiesetta Alpina, longe disso. Para os mais aventureiros, o percurso continua até uma vista de tirar o folego, onde da para apreciar todo o Vale do Itapocu. A rampa de voo livre é a grande atração do local.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 121,
+        "name": "Morro das Antenas",
+        "image": "https://cdn.ocp.news/2018/07/Voo-livre.jpg",
+        "description": "O trajeto do Morro Boa Vista não acaba na Chiesetta Alpina, longe disso. Para os mais aventureiros, o percurso continua até uma vista de tirar o folego, onde da para apreciar todo o Vale do Itapocu. A rampa de voo livre é a grande atração do local.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 122,
+        "name": "Centro Cultural da Sociedade Cultural Artística (Scar)",
+        "image": "https://cdn.ocp.news/2018/07/Scar.jpg",
+        "description": "Com uma área de mil metros quadrados e um grande teatro com capacidade para 946 pessoas, a Scar é o local onde acontece os grandes eventos culturais de Jaraguá do Sul. Somente no ano passado, foram 431 atrações para toda a população, sempre com opções gratuitas todos os meses. Entre os mais conhecidos estão a Feira do Livro e o Festival de Música de Santa Catarina (Femusc), realizado em janeiro e considerado o maior festiva-escola do Brasil. A Scar também mantém uma escola de artes com mil alunos – metade deles bolsistas.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 123,
+        "name": "Museu Weg",
+        "image": "https://cdn.ocp.news/2018/07/Museu-WEG.jpg",
+        "description": "O Museu Weg surge como uma boa opção para quem gosta de ciência e tecnologia. Nele você pode encontrar equipamentos interativos para explorar fenômenos físicos. A ideia do museu é mostrar como a cidade utiliza esses equipamentos e tirar as dúvidas dos visitantes sobre a complexidade dos equipamentos. No museu, você pode conhecer todo processo industrial de fabricação de motores elétricos, obter informações básicas sobre magnetismo, física e elétrica, além de ver toda a história da WEG.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 124,
+        "name": "Centro Histórico",
+        "image": "https://cdn.ocp.news/2018/07/Centro-Historico.jpg",
+        "description": "A revitalização do Centro Histórico de Jaraguá do Sul, finalizada em 2008, trouxe um novo ar para a área. O abandono e a deterioração deram lugar a um espaço com praça e um anfiteatro. O armazém de cargas comporta a estrutura da Biblioteca Pública Rui Barbosa. O Centro Histórico é um local querido e visitado por todos os jaraguaenses.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 125,
+        "name": "Igreja Nossa Senhora do Rosário",
+        "image": "https://cdn.ocp.news/2018/07/Igreja.jpg",
+        "description": "O bairro Nereu Ramos é conhecido pelo turismo religiosos, Já que é o local onde o padre Aloísio Boeing passou boa parte da vida está enterrado, na Igreja Nossa Senhora do Rosário. O padre se destacou por prestar atendimento individual aos fiéis, fazendo o acolhimento, aconselhamento e abençoando cada um que o procurava. Padre Aloísio chegou à igreja no ano de 1984. E desde então, a igreja é um dos pontos mais visitados em Jaraguá do Sul. Após a sua morte, muitos fiéis, antes de entrar na igreja, visitam o local onde está seu tumulo.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 126,
+        "name": "Museu da Paz",
+        "image": "https://cdn.ocp.news/2018/07/Museu-da-paz.jpg",
+        "description": "O Museu da Paz surgiu para trazer aos jaraguaenses a história dos expedicionários da cidade que participaram da Primeira e Segunda Guerra Mundial. Uma maneira de resgatar para a atualidade o registro de quem faz parte da história de Jaraguá do Sul. O museu da paz tem quatro módulos. Os três primeiros fazem parte da Primeira e Segunda Guerra Mundial. O último é dedicado as pessoas que sofregaram com as guerras nesse período.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 127,
+        "name": "Museu Emílio da Silva",
+        "image": "https://cdn.ocp.news/2018/07/Museu-Emilio.jpg",
+        "description": "O antigo prédio da Prefeitura desperta a curiosidade de muitas pessoas que buscam conhecer a história de Jaraguá do Sul. O Museu Emílio da Silva abriga 3.664 peças catalogadas no acervo e outras mil na reserva técnica do local. Em 2017, 8.418 pessoas passaram pelo local. Destes, 2.687 eram estudantes, 39 estrangeiros e 5.694 visitantes da comunidade em geral. Desde sua criação, em 2001, o museu já recebeu mais de 227 mil pessoas. O contraste entre a história e inovação estão presente no museu.",
+        "category": ["Pontos Turísticos"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 128,
+        "name": "Associação Recreativa e Cultural Rio da Luz, Salão Barg",
+        "image": "https://cdn.ocp.news/2018/07/Salao-Barg.jpg",
+        "description": "Se hoje muitos têm a oportunidade de conhecer os costumes trazidos por descendentes de alemães há mais de 100 anos para nossa região, é graças ao trabalho de diversos grupos espalhados por Jaraguá do Sul. É o caso da Associação Recreativa e Cultural Rio da Luz “Salão Barg”, uma das 15 sociedades que fazem parte da Associação dos Clubes e Sociedades de Tiro do Vale do Itapocu. Fundado em 1915, o local recebe eventos durante todo o ano, com destaque para as cinco edições anuais da Noite de Sopas e Cremes.",
+        "category": ["Pontos Turísticos", "Eventos Organizados"],
+        "city": "Jaraguá do Sul"
+      },
+      {
+        "id": 129,
+        "name": "Hotel fazenda Pedras Brancas",
+        "image": "https://serrainfoco.com.br/wp-content/uploads/2018/03/Hotel-Fazenda-Pedras-Brancas32.jpg",
+        "description": "Lages é bem servida de hotéis na zona urbana espalhados pela cidade. No interior predominam algumas pousadas e os hotéis fazenda. O hotel fazenda Pedras Brancas é um deles, localizado a 10 km da cidade, no sentido São Joaquim.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 130,
+        "name": "Morro da cruz (Alto do Morro Grande)",
+        "image": "https://www.visitlages.tur.br/assets/pontos/cd3923b03a561352b57f1e58f578aca9.jpg",
+        "description": "Localizado num dos pontos mais altos da cidade, o Morro da Cruz é palco de lindas encenações na Semana Santa. O mirante lá do alto oferece uma ampla vista panorâmica de Lages. Uma escadaria de 500 degraus da acesso ao topo para quem quiser subir a pé, mas há também acesso para subir de carro.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 131,
+        "name": "Catedral de Lages",
+        "image": "https://s2.glbimg.com/5XRT1eoZO0dKS-XBl_u57L6N_44=/0x0:638x358/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b58693ed41d04a39826739159bf600a0/internal_photos/bs/2017/B/2/LAMmZ3RByaLcEWS27FMg/catedral-de-lages.jpg",
+        "description": "Inaugurada em 01 de janeiro de 1922, a igreja matriz de Lages possui estilo neo-gótico e foi construída toda em pedra pelos padres franciscanos. Além de sua bela fachada com pedras de cor alaranjada, a igreja possui vitrais importados da Alemanha.\n No interior da Catedral destaca-se o altar-mor e as imagens esculpidas do Senhor dos Passos e da Nossa Senhora das Dores.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 132,
+        "name": "Parque Jonas Ramos",
+        "image": "http://3.bp.blogspot.com/-L2SdO8kaTXY/U074IGZ8kYI/AAAAAAAASoI/SEe0jOj_x90/s1600/10155779_683549951683513_4275274221904927499_n.jpg",
+        "description": "Bela área verde localizada no coração da cidade. No local há um lago com carpas vermelhas e seu entorno é um dos lugares preferidos para caminhadas. Nos finais de semana há pedalinhos para alugar no local. No local funciona também um Centro Ambiental e a Biblioteca pública da cidade.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 133,
+        "name": "Parque Jonas Ramos",
+        "image": "https://2.bp.blogspot.com/-lMX9xWrH27c/Wm7gmDpwFQI/AAAAAAAA0kY/oVt4uYugdvQPqGj8MRZd5ApJDIMaMD5ZQCLcBGAs/s1600/Forum_Regional_promove_Feira_Municipal_de_Economia_Solidaria_1430765881.jpg",
+        "description": "Bela praça onde está localizado o monumento Carro de Molas, uma carroça passando sobre a água. O local da praça foi no passado, o ponto mais importante da cidade, onde os mercadores faziam seus negócios ao ar livre.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 134,
+        "name": "Monumento ao Tropeiro",
+        "image": "https://static.fecam.net.br/thumbs/2070/2113219_resize_550_.jpg",
+        "description": "Monumento em homenagem aos tropeiros paulistas que cruzaram o planalto serrano catarinense. O monumento que representa um tropeiro com uma tropa de mulas fica ao lado de araucárias formando um belo cenário. Fica em frente ao parque de exposições da cidade.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 135,
+        "name": "Parque de aventuras Pedras Brancas",
+        "image": "https://fuja.com.br/wp-content/uploads/2019/12/Pedra4.jpg",
+        "description": "O parque de aventuras fica atrás do hotel fazenda pedras Brancas e oferece diversas atividades em meio a um belíssimo cenário de formações rochosas. Entre as atividades, há uma tirolesa de 1200 m de extensão, a Via Ferrata (caminhada em cabos de aço entre as rochas), rapel, escalada e um pêndulo a 40 metros de altura.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 136,
+        "name": "Salto do Rio Caveiras",
+        "image": "https://1.bp.blogspot.com/-I9bFAmfodUw/XDYSon-rD2I/AAAAAAAChJg/shGCKkbyZekO7lI4Eih2h0AzFW_8K5kjQCLcBGAs/s640/salto%2Bcaveiras.jpg",
+        "description": "Grande cachoeira do rio caveiras com 220 metros de largura. No lugar foi construída a primeira usina hidrelétrica na região e seu lago é usado para prática de esportes náuticos. A estrutura inclui um restaurante, área de camping e um grande trapiche. O Salto fica a 20 km do Centro de Lages em direção a São José do Cerrito.",
+        "category": ["Pontos Turísticos"],
+        "city": "Lages"
+      },
+      {
+        "id": 137,
+        "name": "Catedral São João Batista",
+        "image": "https://www.baixaki.com.br/imagens/wpapers/BXK6138_catedral-sao-joao-batista-rio-do-sul-sc-dsc00282800.jpg",
+        "description": "Concluída em 1947, a Catedral São João Batista é o principal cartão postal de Rio do Sul. A imponente igreja de estilo neogótico se destaca até mesmo para quem está passando pela BR-470, ao longe.\n Situada no centro da cidade, forma um belo conjunto harmonioso com o Colégio Dom Bosco, que fica ao seu lado. Tanto por dentro como por fora, impressiona também pela riqueza nos detalhes decorativos.",
+        "category": ["Pontos Turísticos"],
+        "city": "Rio do Sul"
+      },
+      {
+        "id": 138,
+        "name": "Praça Ermembergo Pellizzetti",
+        "image": "https://static.fecam.net.br/thumbs/1991/2160277_resize_1500_1500.jpg",
+        "description": "A Praça Ermembergo Pellizetti é ponto de encontro dos moradores da cidade, situada a poucos metros da catedral.\n Apesar de pequena, é palco de eventos sociais e culturais. Possui parque infantil, árvores e banheiros públicos. Nela acontece também a Feira de Produtos Coloniais, realizada nas sextas.",
+        "category": ["Pontos Turísticos"],
+        "city": "Rio do Sul"
+      },
+      {
+        "id": 139,
+        "name": "Ponte dos Arcos",
+        "image": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2020/12/rio-do-sul-sc.jpg",
+        "description": "A bela Ponte dos Arcos foi inaugurada em 1937, fazendo a ligação entre a Rua XV de Novembro e a Rua Rui Barbosa sobre o rio Itajaí do Sul.\n A ponte dos Arcos considerada um marco histórico de Rio do Sul, tendo servido no passado para a travessia de trens da antiga Estrada de Ferro Santa Catarina. Hoje recebe tráfego de veículos e pedestres.",
+        "category": ["Pontos Turísticos"],
+        "city": "Rio do Sul"
+      },
+      {
+        "id": 140,
+        "name": "Museu da Madeira",
+        "image": "https://static.fecam.net.br/thumbs/1991/2160238_resize_550_.jpg",
+        "description": "Construído em 2011, o Museu da Madeira fica dentro do parque universitário da UNIDAVI. Possui uma serraria movida a roda d’água junto com um acervo de equipamentos utilizados antigamente nesta atividade.\n O Museu da Madeira preserva a história do Ciclo da Exploração da Madeira no Alto Vale do Itajaí. Esta atividade fez parte de um período do desenvolvimento econômico da região.",
+        "category": ["Pontos Turísticos"],
+        "city": "Rio do Sul"
+      },
+      {
+        "id": 141,
+        "name": "Mirante do Javali",
+        "image": "https://pbs.twimg.com/media/EVetZYbWAAE2DqU.jpg",
+        "description": "O Mirante do Javali fica em uma montanha no lado oposto da cidade ao Pico da Bandeira. Lugar bonito que proporciona belas vistas de Rio do Sul a partir de um deck de observação.\n O acesso é pela Estrada do Redentor e depois por uma bifurcação à direita, um pouco antes do Instituto Federal Catarinense. São 10 km a partir do centro, sendo 7 km de estrada de terra, com o trecho final por estrada de terra estreita.",
+        "category": ["Pontos Turísticos"],
+        "city": "Rio do Sul"
+      }
+    ],
+    "foods": [
+      {
+        "id": 299,
+        "name": "Cervejaria Eisenbahn",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/5f/e8/be/caption.jpg",
+        "description": "A Cervejaria Eisenbahn (R. Bahia, 5181) é a mais famosa entre as marcas catarinenses e está entre os passeios prediletos de quem vai à cidade. A fábrica não é aberta à visitação, entretanto há um delicioso bar com vista para os tonéis da bebida, de onde se vê o movimento da produção. Além de poder experimentar uma grande variedade de chopes, o cardápio oferece petiscos deliciosos para acompanhar a bebida. A lojinha também agrada. São vendidos copos, souvenirs e roupas com a marca, além, é claro, de muitas cervejas!",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 298,
+        "name": "Fábrica Cerveja Blumenau",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_comunidade/fotos/4689/show/blumenau.jpg",
+        "description": "A Cerveja Blumenau (R. Arnô Deling, 388) está entre as prediletas da Oktoberfest e cada dia conquista mais mais fãs cervejeiros. Os famosos rótulos Capivara, Frida e Ipê Amarelo fazem sucesso e podem ser degustados logo após uma visita à fábrica. A Blumenau está em fase de reformulação das instalações e prepara um belo bar para receber os visitantes, além da visita guiada à fábrica, recentemente ampliada.",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 297,
+        "name": "Cervejaria Das Bier",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_comunidade/fotos/4714/show/blumenau.jpg",
+        "description": "A Cervejaria Das Bier vai bem além de apenas um local para degustar algumas cervejas. Ela funciona em meio a uma grande área verde, rodeada por lagos com peixes e mata intensa. É um lugar para ir muito além de degustar alguns rótulos. Prefira ir à Das Bier durante o dia para aproveitar o espaço, não só a cerveja. Vale até pescar alguns peixes depois de visitar a fábrica. Nos finais de semana, o cardápio agrada, especialmente por servir feijoada a preço fixo.",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 296,
+        "name": "Cervejaria Container British Beer",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_comunidade/fotos/4708/show/blumenau.jpg",
+        "description": "A Container British Beer é a cervejaria que oferece o ambiente de bar mais interessante entre as opções de Blumenau. A Container surpreende os visitantes com um bar no melhor estilo dos pubs ingleses, sempre com excelente trilha sonora e o visual irresistível para os barris de chope da casa. É lugar para curtir sem pressa. Difícil vai ser querer ir embora. Aproveite e peça a régua de degustação para entrar no clima. A Container oferece um programa de visitação com custo de R$ 32 e duração de 1h30 no qual estão incluídos: palestra sobre a história da cerveja, visita guiada à fábrica, degustação de três estilos da marca e torneio de encher um pint inglês em uma bomba originalmente inglesa (participantes a escolher). Já o Pub funciona regularmente apenas de quarta a sábado à noite. Caso deseje uma visita diurna, será necessário agendar. Para conhecer a fábrica, também é necessário contato prévio.",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 295,
+        "name": "Cervejaria Schornstein",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_comunidade/fotos/4726/show/blumenau.jpg",
+        "description": "A Cervejaria Schornstein, apesar de não estar localizada em Blumenau, está bem pertinho de lá e merece uma visita. Localizada na cidade mais alemã do Brasil, a Schornstein oferece uma das melhores cervejas de Santa Catarina. Original da cidade de Pomerode, a cervejaria agrada com rótulos especiais e uma lojinha repleta de bons produtos e um excelente bar para degustação. A Schornstein ainda não oferece visita à fábrica, mas de dentro da loja é possível ter uma boa ideia sobre o local, já que uma grande parede de vidro permite acompanhar a produção.",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 294,
+        "name": "Bier Vila",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_comunidade/fotos/4674/show/blumenau.jpg",
+        "description": "O Bier Vila (Parque Vila Germânica) é o melhor bar de Blumenau para quem deseja experimentar vários chopes e cervejas especiais. O lugar tem mais de 20 opções de chopes e dezenas de rótulos de cervejas à disposição dos apreciadores da bebida. O ambiente é aberto e dentro da charmosa Vila Germânica. No cardápio, há várias opções de pratos típicos a bons preços. As opções vão de marreco recheado, salsichas alemãs e hackepeter ao clássico eisbein. Quem preferir poderá experimentar também autênticas comidas de boteco, tudo regado a muita cerveja de qualidade, claro! Na dúvida, peça os kits degustação, com quatro copos de 150 ml de diferentes chopes. O Bier Vila permanece aberto durante a Oktoberfest e é um dos melhores pontos para compra durante a festa.",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 293,
+        "name": "Restaurante Moinho do Vale",
+        "image": "https://spguia.melhoresdestinos.com.br/system/fotos_comunidade/fotos/4677/show/blumenau.jpg",
+        "description": "Os sabores da Alemanha estão por toda a cidade, mas alguns restaurantes oferecem receitas tradicionais e, diga-se de passagem, inesquecíveis! Para começar a conhecer os sabores germânicos, uma boa é pedida é o restaurante Moinho do Vale, onde o almoço é em sistema de buffet livre — e você poderá experimentar vários pratos em uma mesma refeição. Tudo com uma linda vista para o rio Itajaí-Açu. É uma ótima maneira de conhecer um pouquinho de cada sabor do menu para depois pedir apenas os seus prediletos em casas especializadas, ou por lá mesmo, no menu à la carte.",
+        "category": ["Comida & Bebida"],
+        "city": "Blumenau",
+        "phone": null
+      },
+      {
+        "id": 292,
+        "name": "Doce & Companhia",
+        "image": "https://images.unsplash.com/photo-1595144780677-6d0b5abbd089?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1027&q=80",
+        "description": "O melhor lugar da cidade para você tomar um bom café. Fatias de tortas artesanais, bolos, lanches e biscoitos caseiros.",
+        "category": ["Comida & Bebida"],
+        "city": "Florianópolis",
+        "phone": "(47) 3598 7815"
+      },
+      {
+        "id": 291,
+        "name": "Mercado Público de Florianópolis",
+        "image": "https://www.voltologo.net/wp-content/uploads/2018/10/mercado-publico-floripa-ponto-turistico.jpg",
+        "description": "Localizado no centro da cidade, o Mercado Público de Florianópolis é um dos lugares mais visitados pelos viajantes que querem provar algumas das delicias locais. Com um ambiente descontraído e dezenas de restaurantes lado a lado, os frutos do mar reinam na maioria das mesas em diferentes receitas. Ostras frescas, casquinhas de siri, tainha frita e as clássicas sequências de camarão são alguns dos pratos mais requisitados. Os preços, no entanto, não são dos mais simpáticos. Apesar de encontrar estabelecimentos que servem pratos executivos entre R$ 20,00 e R$ 30,00, uma refeição mais elaborada para duas pessoas dificilmente sairá por menos de R$ 100,00.",
+        "category": ["Comida & Bebida"],
+        "city": "Florianópolis",
+        "phone": null
+      }
+    ],
+    "events": [
+      {
+        "id": 300,
+        "name": "Expo Tattoo Floripa",
+        "image": "https://images.unsplash.com/photo-1595144780677-6d0b5abbd089?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1027&q=80",
+        "description": "Três dias reunindo em um único lugar, os melhores tatuadores, apresentações culturais, exposições, show de bandas, concurso Miss Tattoo Floripa, Espaço Kids, Food Trucks, suspensão corporal, workshop e muito mais!",
+        "category": ["Eventos Organizados"],
+        "city": "Florianópolis",
+        "more": "Próxima edição em \n  Dias 14, 15 e 16 de agosto de 2021."
+      },
+      {
+        "id": 301,
+        "name": "Festival de Artesanato Algodão Doce",
+        "image": "https://floripaconvention.com.br/wp-content/uploads/2019/05/capturar-270x207.png",
+        "description": "O encontro mais doce do ano já tem data marcada para 2021! Pioneiro no segmento de artesanato, além do maior evento do segmento em Santa Catarina, o 12° Algodão Doce acontecerá de 23 a 26 de junho de 2021! Se você ama e valoriza os trabalhos manuais, marque na agenda e também no coração! Juntos vamos aprimorar técnicas, conhecer mais do mercado artesanal, buscar parcerias e ficar por dentro das tendências deste mercado criativo! E quem não gosta de conforto e comodidade? Por isso, permaneceremos com o espaço mais amplo, com corredores mais espaçosos, estacionamento gratuito e com o horário diferenciado! Em 2021, o evento estará aberto ao público de quarta a sexta das 12h às 19h e no sábado das 10h às 18h. Isso mesmo! Mais tempo para aproveitar todas as novidades deste doce mundo… cheio de cor, alegria e muito amor que estamos preparando para vocês!",
+        "category": ["Eventos Organizados"],
+        "city": "Florianópolis",
+        "phone": "Próxima edição em \n Dias 23, 24, 25 e 26 de junho de 2021."
+      }
+    ]
+  }
+}
