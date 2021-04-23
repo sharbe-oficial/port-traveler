@@ -3,58 +3,82 @@
     {
       "id": 1,
       "name": "Águas Mornas",
-      "image": "https://hweb-upload.s3-sa-east-1.amazonaws.com/587fc4cec19a4713c4c007d7/9b3bba2195e04863a61464bcc20cd12c.jpg",
+      "image": "https://www.mosarquitetos.com.br/admin/files/portfolio/a62z0ZZ5x2W7CwbCyz20cwcbdx3Dwd/mos-arquitetos-arquitetura-aguas-mornas-hotel%20%20(2).jpg",
       "description": "As águas termais do Município de Águas Mornas são classificadas como mesotermais radioativas, com temperatura constante em torno de 39º C. As águas emergem de terrenos pré-cambrianos e apresentam teor de radioatividade, termalidade e baixa meneralização que as qualificam entre as melhores do mundo. Sua origem deve-se a um derrame triássico, que situou-se nas áreas dos municípios de Águas Mornas e Santo Amaro da Imperatriz. As rochas dominantes são os micaschilos e os gneiss, cortados por veias de diábases, pegmatitos e pelo granito.",
-      "local": 42
+      "local": 13,
+      "attractionsCount": 6,
+      "foodsCount": 4,
+      "eventsCount": 3
     },
     {
       "id": 2,
       "name": "Bombinhas",
-      "image": "https://www.segueviagem.com.br/wp-content/uploads/2021/01/Vista-aerea-das-praias-da-Lagoinha-e-Prainha-Bombinhas-Santa-Catarina-shutterstock_1624434856.jpg",
+      "image": "https://www.litoraldesantacatarina.com/wp-content/uploads/2015/10/Foto-Praia-de-Quatro-Ilhas-Santa-Catarina.jpg",
       "description": "Bombinhas é um município do litoral de Santa Catarina, segundo estado mais procurado por estrangeiros. Com águas calmas e transparentes, Bombinhas, está entre os destinos mais belos do país. É a capital do mergulho ecológico e abriga grande diversidade de fauna e flora, lindas ilhas e praias em contraste com o verde da Mata Atlântica.",
-      "local": 28
+      "local": 43,
+      "attractionsCount": 29,
+      "foodsCount": 9,
+      "eventsCount": 5
     },
     {
       "id": 3,
       "name": "Blumenau",
-      "image": "https://sesc-sc.com.br/blog/Manager/show_image.php?show_arquivo=institucional&show_campo=institucional_imagem_pq&show_chave=Institucional_id=3574",
+      "image": "http://4.bp.blogspot.com/-jUsclYLqNy0/VVDhWLhcczI/AAAAAAAAEeY/VEMCHnbTYfs/s1600/IMG_0140.JPG",
       "description": "A cidade foi fundada pelo químico e farmacêutico alemão Hermann Bruno Otto Blumenau , que chegou de barco pelo Rio Itajaí-Açu acompanhado de outros dezessete alemães. Possui uma agenda cultural focada em festas baseadas no cotidiano e hábitos dos imigrantes europeus, com destaque para a herança alemã, incluindo a segunda maior Oktoberfest do mundo, que acontece durante 17 dias no mês de outubro.",
-      "local": 8
+      "local": 29,
+      "attractionsCount": 14,
+      "foodsCount": 8,
+      "eventsCount": 7
     },
     {
       "id": 4,
       "name": "Florianópolis",
-      "image": "https://www.thebrokebackpacker.com/wp-content/uploads/2020/01/shutterstock-florianopolis-Lagoa-da-Conceicao.jpg",
+      "image": "https://iep.org.br/wp-content/uploads/2019/06/pontehercilioluz-1.jpeg",
       "description": "Capital do estado de Santa Catarina no sul do Brasil, é maioritariamente constituída pela Ilha de Santa Catarina, com 54 km de comprimento. É famosa pelas suas praias, incluindo estâncias turísticas populares como a Praia dos Ingleses na extremidade norte da ilha.",
-      "local": 36
+      "local": 98,
+      "attractionsCount": 67,
+      "foodsCount": 20,
+      "eventsCount": 11
     },
     {
       "id": 5,
       "name": "Imbituba",
-      "image": "https://www.sulinfoco.com.br/wp-content/uploads/2021/03/praia-do-rosa.jpg",
+      "image": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2010/08/mirante-praia-do-porto-imbituba.jpg",
       "description": "Imbituba é um município brasileiro do estado de Santa Catarina. De acordo com estimativas do Censos 2010 do IBGE, sua população estimada pelo IBGE é de 44.076 habitantes, com uma unidade territorial de 186,787 km². Considerada a capital nacional da Baleia-franca, estrutura-se mais a cada ano para receber o crescente número de turistas que visitam a cidade.",
-      "local": 24
+      "local": 61,
+      "attractionsCount": 32,
+      "foodsCount": 18,
+      "eventsCount": 11
     },
     {
       "id": 6,
       "name": "Jaraguá do Sul",
       "image": "http://www.eeeguaaa.com.br/wp-content/uploads/2017/06/140331073939_portal-germanico-6-1024x768.jpg",
       "description": "A cidade foi fundada em 25 de julho de 1876 pelo engenheiro e coronel do Exército Brasileiro Emílio Carlos Jourdan e sua família. A cidade era originalmente chamada apenas de Jaraguá, mas posteriormente foi renomeada para Jaraguá do Sul devido a uma cidade já chamada Jaraguá no estado de Goiás.",
-      "local": 16
+      "local": 41,
+      "attractionsCount": 16,
+      "foodsCount": 14,
+      "eventsCount": 11
     },
     {
       "id": 7,
       "name": "Lages",
       "image": "https://luzcont.com.br/wp-content/uploads/2020/10/Como-abrir-empresa-em-Lages-sc.jpg",
       "description": "Lages é a maior cidade da Serra Catarinense, terra de tropeiros e berço do turismo rural no Brasil. A cidade que foi fundada por tropeiros e bandeirantes em 1677, hoje tem mais de 150 mil habitantes.\n Lages estava na rota das longas expedições em que se conduziam as tropas de gado do Rio Grande do Sul para de São Paulo. Nos anos 80, as fazendas tradicionais começaram a abrir suas portas para hospedar visitantes, dando origem ao turismo rural no Brasil.\n Conhecida como a Capital do Turismo Rural e a Terra da Festa do Pinhão, Lages oferece vários pontos turísticos na cidade.",
-      "local": 32
+      "local": 19,
+      "attractionsCount": 6,
+      "foodsCount": 10,
+      "eventsCount": 3
     },
     {
       "id": 8,
       "name": "Rio do Sul",
-      "image": "https://www.guiadoturismobrasil.com/up/img/1498327703.jpg",
+      "image": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2020/12/rio-do-sul-sc.jpg",
       "description": "Rio do Sul é uma importante cidade do Vale Europeu Catarinense, no Alto Vale do Itajaí. Cortada por dois rios que se juntam e formam o Rio Itajaí-Açu, é uma cidade de muitas pontes.\n Entre os pontos turísticos de Rio do Sul, na cidade, o destaque é a imponente igreja matriz (Catedral de São João Batista). Já nos arredores, há boas opções na área montanhosa, como o Pico da Bandeira, Morro do Funil e Cachoeira da Magia.",
-      "local": 12
+      "local": 27,
+      "attractionsCount": 7,
+      "foodsCount": 15,
+      "eventsCount": 5
     }
   ],
 

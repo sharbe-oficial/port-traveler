@@ -1,0 +1,114 @@
+.headerContainer {
+  height: 6rem;
+  background: var(--white);
+  border: 1px solid var(--blue-100);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  
+  .headerContent {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    height: 100%;
+    
+    display: flex;
+    align-items: center;
+
+    a {
+      display: inline-block;
+      padding: 0.625rem;
+      border-radius: 0.625rem;
+      border: 1px solid var(--blue-100);
+      font-size: 0;
+      margin-left: 2.125rem;
+
+      transition: background-color 0.2s;
+
+      &:hover {
+        background: var(--gray-50);
+      }
+    }
+
+    span {
+      margin-left: auto;
+      font-size: 1.25rem;
+      font-weight: 500;
+      color: var(--gray-200);
+    }
+  }
+}
+
+.mainContainer {
+  margin-top: 6rem;
+
+  img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+  }
+
+  .sectionInfoCity {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem  2rem 0 2rem;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    .infoContainer {
+     max-width: 560px;
+
+     h2 {
+       font-size: 3.375rem;
+       font-weight: 600;
+     }
+
+     p {
+       margin-top: 2rem;
+       font-size: 1.125rem;
+       font-weight: 400;
+       line-height: 1.6;
+     }
+    }
+
+    .locationsContainer {
+      flex:1;
+      padding: 2rem 0 2rem 2rem;
+      display: flex;
+      justify-content: space-between;
+
+      .locations {
+        display: flex;
+        flex-direction: column;
+
+        width: 160px;
+        background: var(--white);
+        border: 1px solid var(--blue-100);
+        border-radius: 1.25rem;
+
+        .iconContainer {
+          padding: 2.375rem 0  2.375rem 2rem;
+          border-bottom: 1px solid var(--blue-100);
+        }
+
+        .content {
+          padding: 2rem 0 2rem 2rem;
+          strong {
+            font-size: 2.5rem;
+            font-weight: 600;
+          }
+  
+          .footer {
+            display: block;
+            color: var(--gray-400);
+            line-height: 1.4;
+          }
+        }
+
+      }
+    }
+  }
+}
