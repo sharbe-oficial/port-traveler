@@ -48,7 +48,7 @@ export default function CityDetails({ city, attractions, events, foods }: CityPr
           <span>Cidade</span>
         </div>
       </header>
-
+ 
       <main className={styles.mainContainer}>
         <img src={city.image} alt={city.name} />
 
